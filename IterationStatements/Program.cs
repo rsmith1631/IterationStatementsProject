@@ -7,7 +7,7 @@ namespace IterationStatements
     {
         static void Main(string[] args)
         {
-                //TODO - Read each comment and complete its instruction
+                //DONE - Read each comment and complete its instruction
                 // like the example below
 
                 //Create a List called "numbers" - DONE!
